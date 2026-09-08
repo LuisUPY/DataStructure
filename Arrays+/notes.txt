@@ -1,0 +1,19 @@
+a = [3,1,7,5]
+ len(a) = number of elements
+ a.count(4) = occurences
+ a.index(7) = first position 
+ a.sort() = ascending, it modifies a
+ a.reverse() = reverses, it modifies a
+ a.copy() = shallow copy
+ a.clear() = removes all elements
+
+ ###Homework1###
+ Create a list with 10 students grades
+ Print every grade using a loop
+ Calculate the average without using sum()
+ Ask the user for a grade to search for and report its first position
+ Replace every grade below 70 with 70
+ Print the final list and new average
+
+ ###Homework2###
+ Start with: ["Keyboard", "Mouse", "Monitor"]
